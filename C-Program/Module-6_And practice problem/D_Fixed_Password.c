@@ -5,7 +5,7 @@ int main()
 
  //if we want ,we can use for loop here
 
- //for(;scanf("%d",&x))
+ //for(;scanf("%d",&x);)
 
  while(scanf("%d",&x))
  {

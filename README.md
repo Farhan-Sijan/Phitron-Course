@@ -2,7 +2,7 @@
 
 **Programming Foundations · Problem Solving · Software Development**
 
-A personal learning repository for **Phitron CSE Fundamentals — Batch 10**. This is where I organize my course code, practice solutions, assignments, and projects as I build a foundation in programming and software development.
+A personal learning repository for Phitron CSE Fundamentals — Batch 10. This is where I organize my course code, topic-wise Codeforces and HackerRank solutions, assignments, and projects as I build a foundation in programming and software development.
 
 The learning roadmap connects C/C++, data structures, and algorithms with Python OOP, database design, AI-assisted frontend development, and backend engineering.
 
@@ -155,6 +155,11 @@ Project implementations and their setup instructions will be added as the work d
 - Connect frontend interfaces with secure backend APIs.
 - Practice maintainable architecture, automated testing, and deployment.
 - Build practical applications while documenting the learning process.
+
+  | Platform | Profile |
+| --- | --- |
+| **Codeforces** | [Farhan_Sijan60](https://codeforces.com/profile/Farhan_Sijan60) |
+| **HackerRank** | [hasinsizan60](https://www.hackerrank.com/profile/hasinsizan60) |
 
 ## Author
 

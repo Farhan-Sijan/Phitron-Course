@@ -156,10 +156,13 @@ Project implementations and their setup instructions will be added as the work d
 - Practice maintainable architecture, automated testing, and deployment.
 - Build practical applications while documenting the learning process.
 
-  | Platform | Profile |
+## Coding Profiles
+
+| Platform | Profile |
 | --- | --- |
 | **Codeforces** | [Farhan_Sijan60](https://codeforces.com/profile/Farhan_Sijan60) |
 | **HackerRank** | [hasinsizan60](https://www.hackerrank.com/profile/hasinsizan60) |
+
 
 ## Author
 

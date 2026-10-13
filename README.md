@@ -147,8 +147,6 @@ Project implementations and their setup instructions will be added as the work d
 - **Assignments:** coursework labeled by module and assignment.
 - **Projects:** application code with project-specific documentation.
 
-Browse the course folders to explore the available work. Start with [C Programming](./C-Program/).
-
 ## Learning Objectives
 
 - Develop clear reasoning and effective problem-solving habits.

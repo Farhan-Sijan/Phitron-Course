@@ -4,6 +4,13 @@
 
 A personal learning repository for Phitron CSE Fundamentals — Batch 10. This is where I organize my course code, topic-wise Codeforces and HackerRank solutions, assignments, and projects as I build a foundation in programming and software development.
 
+## Coding Profiles
+
+| Platform | Profile |
+| --- | --- |
+| **Codeforces** | [Farhan_Sijan60](https://codeforces.com/profile/Farhan_Sijan60) |
+| **HackerRank** | [hasinsizan60](https://www.hackerrank.com/profile/hasinsizan60) |
+
 The learning roadmap connects C/C++, data structures, and algorithms with Python OOP, database design, AI-assisted frontend development, and backend engineering.
 
 [Course Roadmap](#course-roadmap) · [Software Engineering](#software-engineering) · [Projects](#projects) · [Repository Guide](#repository-guide) · [Author](#author)
@@ -155,14 +162,6 @@ Project implementations and their setup instructions will be added as the work d
 - Connect frontend interfaces with secure backend APIs.
 - Practice maintainable architecture, automated testing, and deployment.
 - Build practical applications while documenting the learning process.
-
-## Coding Profiles
-
-| Platform | Profile |
-| --- | --- |
-| **Codeforces** | [Farhan_Sijan60](https://codeforces.com/profile/Farhan_Sijan60) |
-| **HackerRank** | [hasinsizan60](https://www.hackerrank.com/profile/hasinsizan60) |
-
 
 ## Author
 

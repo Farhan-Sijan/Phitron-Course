@@ -7,10 +7,12 @@ int main()
 
     int count=0;
 
-    for(int i=0;s[i]!='\0';i++)
-    {
-         count++;
-    }
+    // for(int i=0;s[i]!='\0';i++)
+    // {
+    //      count++;
+    // }
 
-    printf("%d",count);
+    int size=strlen(s);
+
+    printf("%d",size);
 }

@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main()
+{
+    int n;
+    scanf("%d",&n);
+    int space=1;
+    int star=n;
+
+    for(int i=0;i<n;i++)
+    {
+        for(int i=1;i<=space;i++)
+        {
+            printf(" ");
+        }
+
+        for(int i=1;i<=star;i++)
+        {
+                 printf("*");
+        }
+        printf("\n");
+        star=star-2;
+        space++;
+    }
+}

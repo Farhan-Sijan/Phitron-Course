@@ -20,6 +20,7 @@ int main()
            if(a[i]+a[j]==x)
            {
             flag=1;
+            printf("%d %d\n",a[i],a[j]);
          
            
            }

@@ -24,4 +24,5 @@ int main()
         count=count+2;
         space--;
     }
+    
 }

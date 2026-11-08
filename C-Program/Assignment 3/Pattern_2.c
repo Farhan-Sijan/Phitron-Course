@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main()
+{
+    int n;
+   
+    scanf("%d",&n);
+ int count=1;
+ int space=n-1;
+    for(int i=0;i<n;i++)
+    {
+
+        for(int i=0;i<space;i++)
+        {
+               printf(" ");
+        }
+        for(int j=count;j>=1;j--)
+        {
+           printf("%d",j);
+        }
+        printf("\n");
+        count++;
+        space--;
+    }
+}

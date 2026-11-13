@@ -16,15 +16,27 @@ int main()
     }
    
    }
-int specific_raw;
+//    colume print 
 
-scanf("%d",&specific_raw);
+
+// int specific_raw;
+
+// scanf("%d",&specific_raw);
+  
+//     for(int j=0;j<m;j++)
+//     {
+//           printf("%d ",a[specific_raw][j]);
+//     }
+ 
+   //Raw print 
+
+   int specific_col;
+
+scanf("%d",&specific_col);
   
     for(int j=0;j<m;j++)
     {
-          printf("%d ",a[specific_raw][j]);
+          printf("%d ",a[j][specific_col]);
     }
- 
-   
    
 }

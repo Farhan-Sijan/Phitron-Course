@@ -1,0 +1,1 @@
+printf("This is not a diagonal matrix\n");

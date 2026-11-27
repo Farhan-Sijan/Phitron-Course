@@ -20,11 +20,18 @@ class Student{
 
 };
 
+    Student fun()
+    {
+         Student sijan(43,4,3.2);
+         return sijan;
+    }
+    
+
 int main()
 {
-   Student sijan(43,4,3.2);
+   Student obj=fun();
 
 
-   cout<<sijan.roll<<" "<<sijan.cls<<" "<<sijan.gpa<<endl;
+   cout<<obj.roll<<" "<<obj.cls<<" "<<obj.gpa<<endl;
 
 }
